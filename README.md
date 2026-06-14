@@ -1,22 +1,30 @@
 # Yuki Mizutani
 
-Nanzan University Economics student graduating in 2028. I build AI-agent workflows, web services, and automation tools for real student-organization and content operations.
+南山大学経済学部の学生です。AI エージェント、Web サービス、業務・運営フローの自動化を中心に、実際の活動や組織運営で使うためのプロダクトを作っています。
 
-- Focus: AI agents, web services, workflow automation
-- Based in Nagoya, Japan
-- Highlights: Matsuo Lab LLM Advanced Competition award; representative of the Gakuson student organization
+- 関心領域: AI エージェント / Web サービス / ワークフロー自動化
+- 所属・活動: 南山大学 / 学生団体がくそん代表
+- 実績: 松尾研 LLM Advanced Competition 優秀賞
+- 拠点: 名古屋
 
-## Selected Work
+## 主な制作物
 
-- [Portfolio and blog](https://yukidev-xi.vercel.app) - project case studies and writing.
-- [Google Docs to WordPress](https://github.com/Y-Mizutani2005/gdocs_to_wordpress) - Google Apps Script tool that converts Google Docs drafts into WordPress posts with images, metadata, and TOC.
-- [Gakuson Portal](https://gakuson.com) - static student portal for Nanzan University students, operated by Gakuson.
-- [GakusonTheme / NanTopi](https://nantopi.com) - WordPress theme for a student-run media site, built and operated with Gakuson collaborators.
+- [ポートフォリオ・ブログ](https://yukidev-xi.vercel.app)  
+  これまでの制作物、活動実績、技術メモをまとめています。
 
-## Preparing Public Write-Ups
+- [Google Docs to WordPress](https://github.com/Y-Mizutani2005/gdocs_to_wordpress)  
+  Google Docs で作成した記事を、画像・メタデータ・目次つきで WordPress の下書きに変換する Google Apps Script ツールです。
 
-- Matsuo Lab LLM Advanced Competition award snapshot
-- HTML to editable PowerPoint converter prototype
+- [Gakuson Portal](https://gakuson.com)  
+  南山大学生向けに、大学システム、授業進捗、キャンパスマップ、交通情報、ニュースをまとめた静的ポータルサイトです。
+
+- [GakusonTheme / NanTopi](https://nantopi.com)  
+  学生団体がくそんが運営するメディアサイト向けの WordPress テーマです。共同制作・運用の成果として公開しています。
+
+## 公開準備中
+
+- 松尾研 LLM Advanced Competition の公開用スナップショット
+- HTML / CSS スライドを編集可能な PowerPoint に変換する Python プロトタイプ
 
 ## Links
 
